@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm *Megan*, i have a batchelor degree in Electronic Engineering at University of Pisa.
+
+I am curretly enrolled in a Master Degree in Computer engineering, focusing on the Cybersecurity field in University of Pisa Italy.
+- 🔭 I’m currently working on University Projects, feel free to check them out.
+- 🌱 I’m currently learning a lor of things! Since i'm enrolled at univeristy and always open to learn and working Hard!
+- 🤔 I’m looking for help with anything i can learn, i something is new to me i love receiving help to understand.
+
 <!--
 **ItsMegan605/ItsMegan605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
