@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm *Megan*, i have a batchelor degree in Electronic Engineering at University of Pisa.
+I'm *Megan*, i'm 25 and I have a batchelor degree in Electronic Engineering at University of Pisa.
 
 I am curretly enrolled in a Master Degree in Computer engineering, focusing on the Cybersecurity field in University of Pisa Italy.
 - 🔭 I’m currently working on University Projects (not perfect and work in progress).
